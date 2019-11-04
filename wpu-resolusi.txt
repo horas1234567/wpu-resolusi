@@ -1,5 +1,5 @@
 WPU RESOLUSI
-- Konsisten untuk membuat konten
-- Membuat platform untuk pengelolaan video 
+- Konsisten untuk membuat konten 
 - Mempelajari tentang jaringan mikrotik
 - Untuk mempelajari lagi tentang jaringan cisco
+- Mempelajari tentang pembangunan jaringan
