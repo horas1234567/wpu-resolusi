@@ -1,7 +1,8 @@
 RENCANA KONTEN WPU  
 - Javascript
  *ES6 
- %Framework javascript
+ -Framework javascript
+ - Fundamental Datastruktur
 - PHP framework
 - apalagi
 
